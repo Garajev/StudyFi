@@ -1,4 +1,4 @@
- # StudyCompanion
+ # StudyFi - An AI Agent for Studying 
 
 > A macOS AI companion that watches your screen and camera while you study, keeps you on task, and answers questions about what you're looking at — spoken, hands-free.
 
